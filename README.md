@@ -1,6 +1,8 @@
 ShadowsocksR-libev-full for OpenWrt  
 ===
 
+取自bettermanbao的ssr openwrt移植
+
 简介  
 ---
 
